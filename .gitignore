@@ -1,0 +1,15 @@
+LLaMA-Factory/arpo_train_sft/dataset/*.jsonl
+LLaMA-Factory/arpo_train_sft/dataset/*.jsonl
+LLaMA-Factory/LLaMA-Factory-backup
+
+.agents/
+.codex/
+.git/
+__pycache__/
+*.py[cod]
+*.log
+
+*xdl_config*
+ARPO/scripts/ossutil_output/*.report
+**/submit/
+conda_change.sh
